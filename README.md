@@ -8,15 +8,6 @@
 
 ---
 
-## 🗂️ Table of Contents
-- [Assignment Files](#assignment-files)
-- [Instructions](#instructions)
-- [Submission Details](#submission-details)
-- [Solution Highlights](#solution-highlights)
-- [About](#about)
-
----
-
 ## 📄 Assignment Files
 
 You can view or download both assignments below:
