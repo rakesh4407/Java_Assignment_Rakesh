@@ -1,10 +1,10 @@
-# Java Assignment 1
+# Java Assignment 
 
 **Student Name:** Rakesh  
 **Roll No / ID:** 2401201064  
 **Course:** BCA (AI & DS)  
 **Subject:** Java Programming  
-**Assignment No:** 1  
+**Assignment No:** 1 & 2
 
 ---
 
