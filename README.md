@@ -1,4 +1,4 @@
-# Java Assignment 
+# Java Lab Assignment 
 
 **Student Name:** Rakesh  
 **Roll No / ID:** 2401201064  
