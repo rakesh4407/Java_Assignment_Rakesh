@@ -13,12 +13,12 @@
 You can view or download both assignments below:
 
 ### 🔹 Assignment 1
-👉 [Java_Assignment1_Rakesh_2401201064.pdf](./Java_Assignment1_Rakesh_2401201064.pdf)  
-👉 [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/Java_Assignment1_Rakesh_2401201064.pdf)
+- [Java_Assignment1_Rakesh_2401201064.pdf](./Java_Assignment1_Rakesh_2401201064.pdf)  
+- [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/Java_Assignment1_Rakesh_2401201064.pdf)
 
 ### 🔹 Assignment 2
 -  [Java_Assignment2_Rakesh_2401201064.pdf](./RAKESH_241201064_JAVA_LAB_2.pdf)  
-👉 [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/RAKESH_241201064_JAVA_LAB_2.pdf)
+- [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/RAKESH_241201064_JAVA_LAB_2.pdf)
 
 ---
 
@@ -31,7 +31,7 @@ You can view or download both assignments below:
 
 ---
 
-## 🧾 Submission Details
+##  Submission Details
 - **University:** K.R. Mangalam University  
 - **School:** School of Engineering & Technology  
 - **Submitted to:** Dr. Manish Kumar  
@@ -40,7 +40,7 @@ You can view or download both assignments below:
 
 ---
 
-## 💡 Solution Highlights
+##  Solution Highlights
 - Well-commented Java programs for clarity and readability.  
 - Demonstrates core **OOP concepts**:
   - Class, Object, and Inheritance  
@@ -51,13 +51,13 @@ You can view or download both assignments below:
 
 ---
 
-## 🧠 About
+##  About
 This repository is part of my **Java Programming coursework** at K.R. Mangalam University.  
 It showcases hands-on implementation of Java fundamentals and object-oriented programming principles.
 
 ---
 
-### 📎 Repository Link
+###  Repository Link
 [https://github.com/rakesh4407/Java_Assignment_Rakesh](https://github.com/rakesh4407/Java_Assignment_Rakesh)
 
 
