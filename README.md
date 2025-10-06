@@ -26,8 +26,8 @@
 👉 [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/Java_Assignment1_Rakesh_2401201064.pdf)
 
 ####  Assignment 2
-👉 [Java_Assignment2_Rakesh_2401201064.pdf](./Java_Assignment2_Rakesh_2401201064.pdf)  
-👉 [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/Java_Assignment2_Rakesh_2401201064.pdf)
+👉 [Java_Assignment2_Rakesh_2401201064.pdf](./RAKESH_241201064_JAVA_LAB_2.pdf)  
+👉 [Download the PDF (Raw Link)](https://github.com/rakesh4407/Java_Assignment_Rakesh/raw/main/RAKESH_241201064_JAVA_LAB_2.pdf)
 
 ---
 
